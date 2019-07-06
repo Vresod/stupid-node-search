@@ -1,8 +1,4 @@
 import fs from "fs";
-import http from "http";
+import download from "download";
 
-
-
-if (!fs.existsSync("sites.json")) {
-	fs.promises.writeFile("./sites.json", )
-}
+download("https://raw.githubusercontent.com/Vresod/stupid-node-search/master/index.js")
