@@ -1,0 +1,11 @@
+{
+	"name": "stupid-node-search",
+	"version": "1.0.0",
+	"description": "stupid search engine created in node",
+	"main": "index.js",
+	"scripts": {
+		"start": "node index.js"
+	},
+	"author": "Vresod",
+	"license": "GPL-3.0"
+}
