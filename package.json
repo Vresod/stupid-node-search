@@ -8,7 +8,5 @@
 	},
 	"author": "Vresod",
 	"license": "GPL-3.0",
-	"dependencies": {
-		"download": "^7.1.0"
-	}
+	"dependencies": {}
 }
